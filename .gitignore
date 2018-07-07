@@ -21,4 +21,4 @@ vendor/*
 
 /.settings/
 /.project
-/.vs/
+/.vs/*
