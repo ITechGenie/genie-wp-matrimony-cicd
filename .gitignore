@@ -18,5 +18,6 @@ web/.htaccess
 # Composer
 vendor/*
 !vendor/.gitkeep
-/.vs/slnx.sqlite-journal
-/.vs/slnx.sqlite
+/.settings/
+/.project
+/.vs/*
