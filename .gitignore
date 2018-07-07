@@ -18,7 +18,6 @@ web/.htaccess
 # Composer
 vendor/*
 !vendor/.gitkeep
-
 /.settings/
 /.project
 /.vs/*
