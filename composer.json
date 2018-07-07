@@ -57,7 +57,6 @@
       "php -r \"copy('.env.example', '.env');\""
 		],
     "test": [
-      "phpcs",
 	  "phpunit"
     ]
   }
