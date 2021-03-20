@@ -39,7 +39,7 @@
     "johnpbloch/wordpress": "4.9.6",
     "oscarotero/env": "^1.1.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/genie-wp-matrimony": "0.9.1.1"
+    "wpackagist-plugin/genie-wp-matrimony": "^0.9.1.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
